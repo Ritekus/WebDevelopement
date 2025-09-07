@@ -1,0 +1,35 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+html,body{
+    height:100%;
+    width:100%;
+    background-color:bisque;
+}
+main{
+    height:100%;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.container{
+    height:300px;
+    width:300px;
+}
+#b{
+    height:100px;
+    width:100px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#results{
+    height: 25px;
+    width:35px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
